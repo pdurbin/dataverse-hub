@@ -20,6 +20,8 @@ In this analysis, we will explore the discrepancies observed in the metrics repo
 
 ## Harvard | Dataverse
 
+**Website:** https://dataverse.harvard.edu/
+
 **Source:** [GitHub - *https://github.com/IQSS/dataverse.harvard.edu*](https://github.com/IQSS/dataverse.harvard.edu)
 
 ### Developers:
@@ -61,6 +63,8 @@ In this analysis, we will explore the discrepancies observed in the metrics repo
 ___
 
 ## Dataverse.org
+
+**Website:** https://metrics.dataverse.org/global/index.html
 **Source:** [GitHub - *github.com/IQSS/dataverse-metrics*](https://github.com/IQSS/dataverse-metrics)
 
 ### Developers:
@@ -105,6 +109,8 @@ The metrics shown on **dataverse.org/metrics** should match the data available o
 ___
 
 ## IQSS
+
+**Website:** https://iqss.github.io/iqss-metrics-dashboard/
 
 **Source:** [GitHub - *github.com/IQSS/iqss-metrics-dashboard*](https://github.com/IQSS/iqss-metrics-dashboard)
 
@@ -163,13 +169,3 @@ ___
 |Datasets Deposited Last 30 Days | Number |
 |Files Downloaded |  Number |
 |Files Downloaded Last 30 days | Number |
-
-
-
-
-
-
-```
-<iframe id = "metrics_frame" frameborder="0" height="10000px" src="https://iqss.github.io/iqss-metrics-dashboard/" style="width: 100%; height: 10000px !important"></iframe>
-```
-
