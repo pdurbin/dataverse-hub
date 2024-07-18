@@ -33,9 +33,30 @@ In this analysis, we will explore the discrepancies observed in the metrics repo
 - CSS 0.4%
 
 ### Data:
-|Data|Type|Range|
-|-|-|-|
-|-|-|-|
+
+#### Subject data
+|Data|Type|
+|-|-|
+|Subject | Number |
+
+#### Activity
+|Data|Type|
+|-|-|
+|Datasets - all - all activity| Number |
+|Datasets - all - last 30 days| Number |
+|Datasets - Deposited - all activity| Number |
+|Datasets - Deposited - last 30 days| Number |
+|Datasets - Harvested - all activity| Number |
+|Datasets - Harvested - last 30 days| Number |
+
+#### Files
+|Data|Type|
+|-|-|
+|Files - Downloaded - all activity| Number |
+|Files - Downloaded - last 30 days| Number |
+|Files - Deposited - all activity| Number |
+|Files - Deposited - last 30 days| Number |
+
 
 ___
 
@@ -56,10 +77,18 @@ ___
 
 ### Data:
 
-### Data:
-|Data|Type|Range|
-|-|-|-|
-|-|-|-|
+|Data|Type|
+|-|-|
+|Total Dataverses | Bar Chart |
+|Dataverses by Category| Waffle Chart |
+|Total Datasets| Bar Chart | 
+|Datasets by Subject| Waffle Chart | 
+|Total Files |Bar Chart | 
+|Total file downloads | Bar Chart | 
+|Instances by Version | Waffle Chart |
+|Instances by Version | Bar Chart |
+|Source | List | 
+
 
 ### Used on:
 
@@ -91,9 +120,53 @@ ___
 
 ### Data:
 
-|Data|Type|Range|
-|-|-|-|
-|-|-|-|
+
+#### Dataverse Worldwide
+|Data|Type|
+|-|- |
+|Installations | Map |
+|Top 10 Dataverse Installations by Country | Bar chart | 
+
+#### Metrics
+|Data|Type|
+|-|- |
+|Searchable Datasets (Harvard) | Number |
+|Datasets Curated | Number |
+|Number of Installations | Number|
+|Watchers (GitHub) | Number |
+|Subscribers (GitHub) | Number|
+|Number of Videos (YouTube) |
+
+#### Dataverse Content
+|Data|Type|
+|-|- |
+|Total Dataverses | Bar chart |
+|Dataverses by Category | Waffle chart |
+|Total Datasets | Bar chart |
+|Dataverses by Subject | Waffle chart |
+|Total Files| Bar chart |
+|Total File Downloads | Line chart |
+
+#### Dataverse Support
+|Data|Type|
+|-|- |
+|Dataverse Support type | Bar chart |
+|Dataverse Support feature type | Bar chart | 
+|Total number of Tickets 2023 | Number |
+
+#### Harvard Dataverse
+|Data|Type|
+|-|- |
+|Files Total | Number |
+|Files Deposited Last 30 days | Number |
+|Datasets Deposited Total | Number |
+|Datasets Deposited Last 30 Days | Number |
+|Files Downloaded |  Number |
+|Files Downloaded Last 30 days | Number |
+
+
+
+
 
 
 ```
