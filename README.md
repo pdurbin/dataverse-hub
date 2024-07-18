@@ -1,4 +1,4 @@
-# dataverse-hub
+# dataverse-hub - DRAFT - PRIVATE
 
 [Original issue](https://github.com/IQSS/dataverse-pm/issues/271)
 
@@ -8,5 +8,9 @@
 
 [Meeting notes](https://docs.google.com/document/d/1DKNXvPLqX3L4sdHnViea1RaAv5kAcPQXh_YXTSWUzeU/edit#heading=h.8ukwaoy3aqdd)
 
- - Private repository.
- - DRAFT
+Statistics to consolidate:
+
+- https://dataverse.org/metrics
+- https://www.iq.harvard.edu/metrics
+- https://dataverse.harvard.edu/
+  
