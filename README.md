@@ -6,5 +6,7 @@
 
 [HDV metrics](https://docs.google.com/document/d/1AgaLtvCP5t6jmfNYyXoCGXLZVJqNTVD_fTGFKKFC4XY/edit)
 
+[Meeting notes](https://docs.google.com/document/d/1DKNXvPLqX3L4sdHnViea1RaAv5kAcPQXh_YXTSWUzeU/edit#heading=h.8ukwaoy3aqdd)
+
  - Private repository.
  - DRAFT
