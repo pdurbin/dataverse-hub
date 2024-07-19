@@ -5,7 +5,7 @@
 [Initial working document](https://docs.google.com/document/d/1lPoQLBt0tLjSLz7Jzm_MUxSS5bKu6ZRuoOmFkOGf_FI/edit)
 
 [HDV metrics](https://docs.google.com/document/d/1AgaLtvCP5t6jmfNYyXoCGXLZVJqNTVD_fTGFKKFC4XY/edit)
-
+[DV Metrics API](https://guides.dataverse.org/en/4.20/api/metrics.html)
 [Meeting notes](https://docs.google.com/document/d/1DKNXvPLqX3L4sdHnViea1RaAv5kAcPQXh_YXTSWUzeU/edit#heading=h.8ukwaoy3aqdd)
 
 [Draft document](https://docs.google.com/document/d/1F16ZcGvWW8rnN3pTGS1tH2GK_b84FY_SONKjNh8gnE4/edit?usp=sharing)
