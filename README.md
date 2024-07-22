@@ -47,20 +47,20 @@ In this analysis, we will explore the discrepancies observed in the metrics repo
 #### Activity
 |Data|Type|
 |-|-|
-|Datasets - all - all activity| Number |
-|Datasets - all - last 30 days| Number |
-|Datasets - Deposited - all activity| Number |
-|Datasets - Deposited - last 30 days| Number |
-|Datasets - Harvested - all activity| Number |
-|Datasets - Harvested - last 30 days| Number |
+|Datasets - all - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/datasets?dataLocation=all
+|Datasets - all - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/datasets/pastDays/30?dataLocation=all
+|Datasets - Deposited - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/datasets?dataLocation=local
+|Datasets - Deposited - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/datasets/pastDays/30?dataLocation=local
+|Datasets - Harvested - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/datasets?dataLocation=remote
+|Datasets - Harvested - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/datasets/pastDays/30?dataLocation=remote
 
 #### Files
 |Data|Type|
 |-|-|
-|Files - Downloaded - all activity| Number |
-|Files - Downloaded - last 30 days| Number |
-|Files - Deposited - all activity| Number |
-|Files - Deposited - last 30 days| Number |
+|Files - Downloaded - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/downloads
+|Files - Downloaded - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/downloads/pastDays/30
+|Files - Deposited - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/files
+|Files - Deposited - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/files/pastDays/30
 
 
 ___
