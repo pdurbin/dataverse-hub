@@ -8,6 +8,7 @@
 - [Draft document](https://docs.google.com/document/d/1F16ZcGvWW8rnN3pTGS1tH2GK_b84FY_SONKjNh8gnE4/edit?usp=sharing)
 - [Draft spreadsheet](https://docs.google.com/spreadsheets/d/1Z4_RVic46Us8xSRcKYOr6aUCxjrff8eLY_UlUCQZeoc/edit?usp=sharing)
 - [Draft presentation](https://docs.google.com/presentation/d/1aJlskY7LuuGMxYRkaxenEnKVhf7yxFj2pDnifL67lO4/edit?usp=sharing)
+- [Draft diagram](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=banner_ad&utm_campaign=teams#pako:eNqNVNtugzAM_ZWId35gmia1ZdMq7fLQbdKkvaTBpZmCgxKzCbX99xEKLYHQNW_xMefYJza7SOgUoptIKG5tInlmeP6FrD4LjSQRkLpriWQqdruP4yG2REtcKU5SY4s3yWM0jvd3CSdugcLgQisFwt3C-AcYOwk-SAVTtIhHWsaOGU3D50Z2x6g78RIJMjBMdOAy6aErMhIzhjxvtQ4-YdN5n04i1VRN-DJREz1VNJb3hPodhoq_QqqNpmCFkcXZ8z7oBKhMA58pjdkEtNWWBlpdWYqXKLafwE3Q8LFLc60VcGRZKsRzDvkaTKAFLWclbbWRVI1RZykXxO5zLlXAynYgfRfP7npWe7U91RawBAptJUE6BB65-QHrA7UUOL3w6HSjP3hP5lczqmCWO9_m1aLmzbSppvBVuf6uBQLGv-maf9RYuMx2A4MzN2VU-xDe8v7rh9vmvso0vWz1X0o3Hq-b90JpntoLGYn-xV7O4B26f8UuMIfihK5KIcDaTamGDZ1zZkSQF3TFZJ2WPDr8AbXQwUk)
 
 Statistics to consolidate:
 
