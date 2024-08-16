@@ -29,15 +29,6 @@ In this analysis, we will explore the discrepancies observed in the metrics repo
 
 **Source:** [GitHub - *https://github.com/IQSS/dataverse.harvard.edu*](https://github.com/IQSS/dataverse.harvard.edu)
 
-### Developers:
-- Philip Durbin
-
-### Technologies:
-- HTML 60.1%
-- Python 15.0%
-- Jupyter Notebook 12.3%
-- Shell 12.2%
-- CSS 0.4%
 
 ### Data:
 
@@ -71,18 +62,6 @@ ___
 
 **Website:** https://metrics.dataverse.org/global/index.html
 **Source:** [GitHub - *github.com/IQSS/dataverse-metrics*](https://github.com/IQSS/dataverse-metrics)
-
-### Developers:
-- Philip Durbin
-- Jim Myers
-- Don Sizemore
-
-### Technologies:
-- JavaScript 55.1%
-- Python 22.6%
-- HTML 13.7%
-- CSS 8.3%
-- Shell 0.3%
 
 ### Data:
 
@@ -118,17 +97,7 @@ ___
 **Website:** https://iqss.github.io/iqss-metrics-dashboard/
 
 **Source:** [GitHub - *github.com/IQSS/iqss-metrics-dashboard*](https://github.com/IQSS/iqss-metrics-dashboard)
-
-### Developers:
-- Erik Buunk
-- Evan Sarmiento
-
-### Technologies:
-- CSS 49.6%
-- JavaScript 47.5%
-- HTML 2.2%
-- Other 0.7%
-
+**Source:** [GitHub - *github.com/IQSS/iqss-metrics-backend*](https://github.com/IQSS/iqss-metrics-backend)
 ### Data:
 
 
