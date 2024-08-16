@@ -29,54 +29,20 @@ In this analysis, we will explore the discrepancies observed in the metrics repo
 
 **Source:** [GitHub - *https://github.com/IQSS/dataverse.harvard.edu*](https://github.com/IQSS/dataverse.harvard.edu)
 
+___
 
-### Data:
+## IQSS
 
-#### Subject data
-|Data|Type|
-|-|-|
-|Subject | Number |
+**Website:** https://iqss.github.io/iqss-metrics-dashboard/
 
-#### Activity
-|Data|Type|
-|-|-|
-|Datasets - all - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/datasets?dataLocation=all
-|Datasets - all - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/datasets/pastDays/30?dataLocation=all
-|Datasets - Deposited - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/datasets?dataLocation=local
-|Datasets - Deposited - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/datasets/pastDays/30?dataLocation=local
-|Datasets - Harvested - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/datasets?dataLocation=remote
-|Datasets - Harvested - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/datasets/pastDays/30?dataLocation=remote
-
-#### Files
-|Data|Type|
-|-|-|
-|Files - Downloaded - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/downloads
-|Files - Downloaded - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/downloads/pastDays/30
-|Files - Deposited - all activity| Number | https://dataverse.harvard.edu/api/info/metrics/files
-|Files - Deposited - last 30 days| Number | https://dataverse.harvard.edu/api/info/metrics/files/pastDays/30
-
-
+**Source:** [GitHub - *github.com/IQSS/iqss-metrics-dashboard*](https://github.com/IQSS/iqss-metrics-dashboard)
+**Source:** [GitHub - *github.com/IQSS/iqss-metrics-backend*](https://github.com/IQSS/iqss-metrics-backend)
 ___
 
 ## Dataverse.org
 
 **Website:** https://metrics.dataverse.org/global/index.html
 **Source:** [GitHub - *github.com/IQSS/dataverse-metrics*](https://github.com/IQSS/dataverse-metrics)
-
-### Data:
-
-|Data|Type|
-|-|-|
-|Total Dataverses | Bar Chart |
-|Dataverses by Category| Waffle Chart |
-|Total Datasets| Bar Chart | 
-|Datasets by Subject| Waffle Chart | 
-|Total Files |Bar Chart | 
-|Total file downloads | Bar Chart | 
-|Instances by Version | Waffle Chart |
-|Instances by Version | Bar Chart |
-|Source | List | 
-
 
 ### Used on:
 
@@ -90,56 +56,4 @@ Plataform: [OpenScholar - *dataverse.org/metrics*](https://dataverse.org/metrics
 The metrics shown on **dataverse.org/metrics** should match the data available on metrics.dataverse.org. It’s important to note that **dataverse.org/metrics** is an OpenScholar website, and the information presented is merely an iframe.
 
 
-___
 
-## IQSS
-
-**Website:** https://iqss.github.io/iqss-metrics-dashboard/
-
-**Source:** [GitHub - *github.com/IQSS/iqss-metrics-dashboard*](https://github.com/IQSS/iqss-metrics-dashboard)
-**Source:** [GitHub - *github.com/IQSS/iqss-metrics-backend*](https://github.com/IQSS/iqss-metrics-backend)
-### Data:
-
-
-#### Dataverse Worldwide
-|Data|Type|
-|-|- |
-|Installations | Map |
-|Top 10 Dataverse Installations by Country | Bar chart | 
-
-#### Metrics
-|Data|Type|
-|-|- |
-|Searchable Datasets (Harvard) | Number |
-|Datasets Curated | Number |
-|Number of Installations | Number|
-|Watchers (GitHub) | Number |
-|Subscribers (GitHub) | Number|
-|Number of Videos (YouTube) |
-
-#### Dataverse Content
-|Data|Type|
-|-|- |
-|Total Dataverses | Bar chart |
-|Dataverses by Category | Waffle chart |
-|Total Datasets | Bar chart |
-|Dataverses by Subject | Waffle chart |
-|Total Files| Bar chart |
-|Total File Downloads | Line chart |
-
-#### Dataverse Support
-|Data|Type|
-|-|- |
-|Dataverse Support type | Bar chart |
-|Dataverse Support feature type | Bar chart | 
-|Total number of Tickets 2023 | Number |
-
-#### Harvard Dataverse
-|Data|Type|
-|-|- |
-|Files Total | Number |
-|Files Deposited Last 30 days | Number |
-|Datasets Deposited Total | Number |
-|Datasets Deposited Last 30 Days | Number |
-|Files Downloaded |  Number |
-|Files Downloaded Last 30 days | Number |
